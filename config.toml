@@ -4,7 +4,7 @@ theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
-pygmentsStyle = "bw"
+pygmentsStyle = "github"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
@@ -103,37 +103,37 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/khoand10/"
 
 [[params.social]]
 name = "Gitlab"
 icon = "fa fa-2x fa-gitlab"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "#"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "#"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "#"
 
 [[params.social]]
 name = "Medium"
 icon = "fa fa-2x fa-medium"
 weight = 5
-url = "https://medium.com/@johndoe"
+url = "#"
 
 [[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 6
-url = "https://myhugosite.com/index.xml"
+url = "#"
 rel = "alternate"
 type = "application/rss+xml"
 
